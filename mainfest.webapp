@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "Hello World",
+  "description": "Hello world",
+  "icons" {
+    "128":"/icons/icon_128.png"
+  },
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Owen Ouyang",
+    "url": "https://github.com/oouyang/fxhelloworld/",
+  },
+  "default_locale": "en"
+}
