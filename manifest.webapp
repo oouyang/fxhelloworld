@@ -1,14 +1,14 @@
 {
   "version": "1.0",
   "name": "Hello World",
-  "description": "Hello world",
+  "description": "Calc",
   "icons": {
-    "128": "/icons/icon128x128.png"
+    "128": "/icons/calc.png"
   },
-  "launch_path": "/index.html",
+  "launch_path": "/fxhelloworld/calc.html",
   "developer": {
     "name": "Owen Ouyang",
-    "url": "https://github.com/oouyang/fxhelloworld/"
+    "url": "http://www.calculator.net/math-calculator-for-your-site.html"
   },
   "default_locale": "en"
 }
