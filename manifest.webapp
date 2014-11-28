@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "name": "Hello World",
+  "name": "Calc",
   "description": "Calc",
   "icons": {
-    "128": "/icons/calc.png"
+    "128": "/fxheloworld/icons/calc.png"
   },
   "launch_path": "/fxhelloworld/calc.html",
   "developer": {
